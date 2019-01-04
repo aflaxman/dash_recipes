@@ -10,3 +10,12 @@ year start should always be less than year end.  How to do?
 
 * `c_update_start_and_end.py` - natural extension to get start and end
   right when the other changes, but that doesn't work
+
+* `d_update_end_on_start_and_end.py` - another try, but also doesn't
+  work.
+
+I think what I am trying to do is not yet possible:
+https://community.plot.ly/t/both-input-and-output/5674/6 (2019-01-03)
+
+To run: `python [filename.py]`, then point web browser to url this
+prints.
